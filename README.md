@@ -5,7 +5,6 @@ Welcome to my coding and hacking playground! 🚀
 ## 🔍 About Me
 
 - 👨‍💻 Learning the art of coding.
-- 🌐 Connect with me on [Instagram](https://www.instagram.com/SnapBanane).
 
 ## 🚀 Interests
 
@@ -19,7 +18,7 @@ Welcome to my coding and hacking playground! 🚀
 
 ## 📫 Contact
 
-Connect with me on Instagram: [@SnapBanane](https://www.instagram.com/SnapBanane).
+Connect with me on Instagram: [@SnapBanane](https://www.instagram.com/Juliusmitg).
 
 Let's create, learn, and hack together! 🌐💻
 
