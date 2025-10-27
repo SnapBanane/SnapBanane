@@ -26,9 +26,9 @@
 
 | Domain | Tools & Tech |
 |--------|---------------|
-| **Embedded Systems** | ESP32 (WROOM), I²C/SPI/UART, FreeRTOS, PlatformIO |
+| **Embedded Systems** | ESP32 (WROOM), I²C/SPI/UART, PlatformIO |
 | **Control & Estimation** | PID, Kalman Filter, Sensor Fusion |
-| **Robotics Software** | C++, Python, ROS2, Computer Vision |
+| **Robotics Software** | C++, Python, Computer Vision |
 | **Mechanical Design** | OpenSCAD, FDM Printing, Parametric CAD |
 | **Tooling & Automation** | GitHub Actions, Python utilities, CI pipelines |
 
@@ -38,10 +38,10 @@
 
 | Project | Description |
 |----------|--------------|
-| [**BohleBots 2025**](https://github.com/SnapBanane/BohleBots_2025) | 2v2 RoboCup robots – modular firmware, real-time control, and vision tracking |
-| [**SensorFusionLib**](https://github.com/SnapBanane/SensorFusionLib) | Lightweight C++ library for multi-sensor fusion on embedded targets |
-| [**ParametricFrames**](https://github.com/SnapBanane/ParametricFrames) | OpenSCAD parametric frame generator for robot chassis design |
-| [**CM5-Vision**](https://github.com/SnapBanane/CM5-Vision) | Real-time omnidirectional vision pipeline for goal & ball detection |
+| [**BohleBots 2025**](https://github.com/SnapBanane/BohleBots_2025) | 1v1 RoboCup robots – modular firmware, real-time control, and vision tracking |
+| [**BOhleBots 2026**](https://github.com/SnapBanane/BohleBots_2026) | 2v2 RoboCup robots - more advanced robotics, faster gameplay, advanced vision |
+| [**ViveFramework**](https://github.com/SnapBanane/vive-framekwork) | An modular framework for everyday tasks, made by me for you |
+| [**Doom in HTML**](https://github.com/SnapBanane/doomstyle) | Project for learning how to develop 3d games in HTML |
 
 ---
 
@@ -58,7 +58,7 @@
 
 ### 🧩 About Me
 
-- Member of **Team 0mm** — building autonomous 4-wheel RoboCup robots ⚽  
+- Member of **Team BohleBots Pompeii** — building autonomous 4-wheel RoboCup robots ⚽  
 - Interested in **robotics systems engineering**, **embedded control**, and **autonomy research**  
 - Passionate about **bridging hardware & software** to make reliable robots that perform under pressure  
 
@@ -69,8 +69,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=githubpages&logoColor=white)](https://snapbanane.github.io)
-[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURNAME)
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julius@gerhardus.com)
   
 </div>
 
