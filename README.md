@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github.com/SnapBanane/SnapBanane/blob/main/assets/banner.png" alt="Banner" width="100%" />
   
-  # 👋 Hi, I’m SnapBanane  
   ### Autonomous Systems Engineer | Robotics & Embedded Software
 </div>
 
@@ -14,9 +13,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-009688?style=for-the-badge)
 ![OpenSCAD](https://img.shields.io/badge/OpenSCAD-EDB400?style=for-the-badge)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 </div>
 
@@ -29,7 +26,7 @@
 | **Embedded Systems** | ESP32 (WROOM), I²C/SPI/UART, PlatformIO |
 | **Control & Estimation** | PID, Kalman Filter, Sensor Fusion |
 | **Robotics Software** | C++, Python, Computer Vision |
-| **Mechanical Design** | OpenSCAD, FDM Printing, Parametric CAD |
+| **Mechanical Design** | OpenSCAD, Parametric CAD |
 | **Tooling & Automation** | GitHub Actions, Python utilities, CI pipelines |
 
 ---
