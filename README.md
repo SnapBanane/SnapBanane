@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/SnapBanane/.github/assets/banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/SnapBanane/SnapBanane/assets/banner.png" alt="Banner" width="100%" />
   
   # 👋 Hi, I’m SnapBanane  
   ### Autonomous Systems Engineer | Robotics & Embedded Software
